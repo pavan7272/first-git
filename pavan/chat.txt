@@ -1,0 +1,19 @@
+07:21:42	 From  Binayak P Gupta : https://drive.google.com/file/d/0BxBWaJgodJ5bZjBtRER0V2tScDA/view?usp=sharing
+07:22:46	 From  Binayak P Gupta : https://drive.google.com/file/d/0B6kvx02xKYj3RmpzeHp5UnoyUGs/view?usp=sharing
+07:23:29	 From  NANI : yes
+07:23:29	 From  ritesh dhumale arla : yes
+07:23:29	 From  sandeep kasanagottu : yes
+07:23:30	 From  pavan : yes
+07:23:37	 From  Naresh Bollepally : yes
+07:23:41	 From  Tinu Koshy : yes
+07:23:54	 From  Praveen Reddy : yes
+07:41:40	 From  NANI : root
+07:41:44	 From  NANI : /
+07:41:45	 From  Tinu Koshy : / boot
+07:41:55	 From  Binayak P Gupta : / (root)
+07:42:17	 From  Binayak P Gupta : /, /boot
+07:43:03	 From  Naresh Bollepally : done with the download
+07:43:12	 From  sandeep kasanagottu : done with download
+07:44:00	 From  Tinu Koshy : my iso file is not yet downloaded
+07:45:04	 From  pavan : yeah downloaded and trying to install
+07:45:32	 From  Binayak P Gupta : Everyone move on to LP
